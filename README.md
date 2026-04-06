@@ -1,7 +1,3 @@
-# Gd_Nucleus-152-160-
-Interactive IBM-1 simulation for nuclear shape evolution in even-even ¹⁵²⁻¹⁶⁰Gd isotopes — U(5), X(5), SU(3) symmetry transitions
-
-
 # IBM-1 Nuclear Structure Simulation — ¹⁵²⁻¹⁶⁰Gd
 
 ![HTML](https://img.shields.io/badge/HTML-single%20file-orange)
@@ -12,7 +8,7 @@ Interactive visualization of nuclear shape evolution in even–even **Gadolinium
 
 The simulation illustrates how nuclear structure evolves as neutrons are added, transitioning between spherical and deformed shapes.
 
-🔗 **[View Live Simulation](https://abdalhady-alsayd.github.io/IBM-1-Gd-Simulation/gd_ibm1_website.html)**
+🔗 **[View Live Simulation](https://abdalhadyy.github.io/Gd_Nucleus-152-160-/Gd_Isotopes/Gd_152-160.html)**
 
 ---
 
@@ -57,7 +53,7 @@ The isotope **¹⁵⁴Gd (N = 90)** appears near the **X(5) critical-point symme
 1. Clone or download the repository.
 2. Open the file:
    ```
-   Gd[152-160].html
+   Gd-Isotopes-152-160.html
    ```
    directly in any browser — no installation or dependencies required.
 
