@@ -57,7 +57,7 @@ The isotope **¹⁵⁴Gd (N = 90)** appears near the **X(5) critical-point symme
 1. Clone or download the repository.
 2. Open the file:
    ```
-   gd_ibm1_website.html
+   Gd[152-160].html
    ```
    directly in any browser — no installation or dependencies required.
 
