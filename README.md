@@ -8,7 +8,7 @@ Interactive visualization of nuclear shape evolution in even–even **Gadolinium
 
 The simulation illustrates how nuclear structure evolves as neutrons are added, transitioning between spherical and deformed shapes.
 
-🔗 **[View Live Simulation](https://abdalhadyy.github.io/Gd_Nucleus-152-160-/Gd_Isotopes/Gd_152-160.html)**
+🔗 **[View Live Simulation](https://abdalhadyy.github.io/Gd_Nucleus-152-160-/Gd_Isotopes/Gd-Isotopes-152-160.html)**
 
 ---
 
