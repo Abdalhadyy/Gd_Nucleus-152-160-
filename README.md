@@ -63,7 +63,7 @@ The isotope **¹⁵⁴Gd (N = 90)** appears near the **X(5) critical-point symme
 
 If you use or reference this work, please cite:
 
-> A. Alsayd, M. Elsayd, A. Elshahat, A. Shaban, M. Abdel-Mageed.  
+> A. Alsayd, M. Abdel-Mageed.  
 > *"An Investigation of the Nuclear Structure of Even-Even ¹⁵²⁻¹⁶⁰Gd Isotopes Using the Interacting Boson Model (IBM-1)."*  
 > Department of Physics, Faculty of Science, Zagazig University, Egypt, 2025.
 
